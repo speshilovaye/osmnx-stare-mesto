@@ -5,7 +5,7 @@ Tento repozitář obsahuje semestrální projekt zaměřený na představení a 
 ## Obsah projektu
 - **Knihovna:** OSMnx (verze 2.1.1)
 - **Zájmové území:** Staré Město, Praha
-- **Hlavní soubor:** [`osmnx_stare_mesto.ipynb`](./osmnx_stare_mesto.ipynb) *Staré Město*
+- **Hlavní soubor:** [`osmnx_stare_mesto.ipynb`](./osmnx_stare_mesto.ipynb) 
 
 ## Co projekt demonstruje
 1. **Topologie a stahování dat:** Automatizované stažení pěší sítě z OpenStreetMap přes Overpass API a zjednodušení křižovatek.
